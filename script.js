@@ -6,31 +6,70 @@ const textoResultado = document.querySelector("texto-resultado");
 
 const perguntas = [
     {
-        enunciado: Assim que saiu da escola, ele recebeu um abraço da garota que gosta:
+        enunciado: "Uma nova aluna chegou na escola, o nome dela era Ana Flávia, Gustavo, deslumbrado com sua beleza, pensou em conversar com ela..."
         alternativas: [
-            "Isso é assustador!",
-            "Isso é maravilhoso",
+            { 
+            texto: "Eae novinha, vem que o pé de meia ta na conta!",
+            afirmacao: "afirmação",
+            },
+            { 
+            texto: "Eae gatinha, moro no inês mas tenho um gol daora em!",
+            afirmacao: "afirmação",
+            },
         ]
     },
+
     {
-        enunciado: Assim que saiu da escola, ele recebeu um abraço da garota que gosta:
+        enunciado: "Ana Flávia responde: 'Ai nossa, que horror, sai daqui menino!', Gustavo então responde: "
         alternativas: [
-            "Isso é assustador!",
-            "Isso é maravilhoso",
+            { 
+            texto: "Vai se fuder piranha interesseira, vagabunda!",
+            afirmacao: "afirmação",
+            },
+            { 
+            texto: "Pô, é foda... desculpa ai...",
+            afirmacao: "afirmação",
+            },
         ]
     },
+
     {
-       enunciado: Assim que saiu da escola, ele recebeu um abraço da garota que gosta:
+        enunciado: "Gustavo então, de coração partido, triste, cabisbaixo, desanimado, resolve dar em cima da amiga dela, a Nicolly... Gustavo então chega nela e diz: "
         alternativas: [
-            "Isso é assustador!",
-            "Isso é maravilhoso",
+            { 
+            texto: "Oi bb, la em casa em!",
+            afirmacao: "afirmação",
+            },
+            { 
+            texto: "Oi, te achei muito bonita, pode me passar seu insta?",
+            afirmacao: "afirmação",
+            },
         ]
     },
+
     {
-        enunciado: Assim que saiu da escola, ele recebeu um abraço da garota que gosta:
+        enunciado: "Nicolly então responde: 'Meu Deus, parece o Sherek, sai daqui menino, se mata!' Só resta então dois caminhos para o Gustavo... "
         alternativas: [
-            "Isso é assustador!",
-            "Isso é maravilhoso",
+            { 
+            texto: "Gustavo entra em depressão e comete suicídio.",
+            afirmacao: "afirmação",
+            },
+            { 
+            texto: "Gustavo aceita seu destino e vira gari.",
+            afirmacao: "afirmação",
+            },
         ]
     },
-]
+
+
+
+let atual = 0;
+let perguntaAtual;
+
+function mostraPergunta () {
+    perguntaAtual = perguntas [atual];
+    caixaPerguntas.textContent = perguntas.enunciado;
+
+}
+
+mostraPergunta ();
