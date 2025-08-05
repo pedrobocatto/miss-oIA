@@ -34,7 +34,7 @@ const perguntas = [
     },
 
     {
-        enunciado: "Gustavo então, de coração partido, triste, cabisbaixo, desanimado, resolve dar em cima da amiga dela, a Nicolly... Gustavo então chega nela e diz: "
+        enunciado: "Gustavo então, de coração partido, triste, cabisbaixo, desanimado, resolve dar em cima da amiga dela, a Nicoly... Gustavo então chega nela e diz: "
         alternativas: [
             { 
             texto: "Oi bb, la em casa em!",
@@ -48,7 +48,7 @@ const perguntas = [
     },
 
     {
-        enunciado: "Nicolly então responde: 'Meu Deus, parece o Sherek, sai daqui menino, se mata!' Só resta então dois caminhos para o Gustavo... "
+        enunciado: "Nicolly então responde: 'Meu Deus, parece o Sherek, sai daqui menino, se mata! Prefiro o rafarazzu.' Só resta então dois caminhos para o Gustavo... "
         alternativas: [
             { 
             texto: "Gustavo entra em depressão e comete suicídio.",
