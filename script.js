@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Eae novinha, vem que o pé de meia ta na conta!",
-                afirmacao: "Ana Flávia humilha Gustavo e ele vai embora."
+                afirmacao: ""
             },
             {
                 texto: "Eae gatinha, moro no inês mas tenho um gol daora em!",
-                afirmacao: "Ana Flávia se interessa pelo gol e resolve dar uma chance para Gustavo."
+                afirmacao: ""
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Então, quer ir dar um rolê final de semana no parque aquático?",
-                afirmacao: "Ela aceita, porém chegando lá, ela vê o amigo do Gustavo de longe... Pablo... e junto seu shape sarado! Ana Flávia corre para o Pablo e o Gustavo volta triste para sua casa."
+                afirmacao: ""
             },
             {
                 texto: "O que acha de ir fazer trilha na montanha? Tirar umas fotos daoras da paisagem e tals?",
-                afirmacao: "Ana Flávia acha a ideia legal e aceita fazer trilha com o Gustavo, no meio da trilha, aparece um URSO feroz, Gustavo com todos os anos de academia salva Ana Flávia, fazendo com que ela se apaixone por ele."
+                afirmacao: ""
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Gustavo tira a aliança do bolso, mas fica nervoso pois lembra do seu último fora e se borra inteiro.",
-                afirmacao: "Ana Flávia vẽ essa cena e vai embora... PARA SEMPRE!"
+                afirmacao: ""
             },
             {
                 texto: "Gustavo lembra de seus momento de SIGMA, respira fundo como um verdadeiro homem e resolve pedir ela em namoro, como um real cavaleiro.",
-                afirmacao: "Ana Flávia aceita, eles se casam, tem 4 filhas e 2 filhos e 1 cachorro e são felizes para sempre."
+                afirmacao: ""
             }
         ]
     },
