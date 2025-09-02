@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Depois de salvar e conquistar Ana Flávia, Gustavo leva ela para a praia, no finalzinho de tarde, e pede ela em namoro, como Gustavo faz isso?",
+        enunciado: "Um URSO feroz aparece e Gustavo com todo o poder acumulado no Roblox, coloca a fera para correr e salve sua amada. Depois de salvar e conquistar Ana Flávia, Gustavo leva ela para a praia, no finalzinho de tarde, e pede ela em namoro, como Gustavo faz isso?",
         alternativas: [
             {
                 texto: "Gustavo tira a aliança do bolso, mas fica nervoso pois lembra do seu último fora e se borra inteiro.",
