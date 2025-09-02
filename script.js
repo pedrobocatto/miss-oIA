@@ -36,7 +36,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Gustavo tira a aliança do bolso, mas fica nervoso pois lembra do seu último fora e se borra inteiro.",
-                afirmacao: "Ela vai embora... PARA SEMPRE!"
+                afirmacao: "Ela vai embora... ficar com o Pablo rei delas.j"
             },
             {
                 texto: "Gustavo lembra de seus momento de SIGMA, respira fundo como um verdadeiro homem e resolve pedir ela em namoro, como um real cavaleiro.",
