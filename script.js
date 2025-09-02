@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Gustavo tira a aliança do bolso, mas fica nervoso pois lembra do seu último fora e se borra inteiro.",
-                afirmacao: ""
+                afirmacao: "Ela vai embora... PARA SEMPRE!"
             },
             {
                 texto: "Gustavo lembra de seus momento de SIGMA, respira fundo como um verdadeiro homem e resolve pedir ela em namoro, como um real cavaleiro.",
-                afirmacao: ""
+                afirmacao: "Ela aceita, eles e casam, tem 3 filhas e 1 filho e 1 cachorro, e são felizes para sempre."
             }
         ]
     },
@@ -80,7 +80,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
